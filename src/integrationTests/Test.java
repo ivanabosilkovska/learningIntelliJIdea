@@ -16,5 +16,7 @@ public class Test {
 
         System.out.println("Learning how to push our changes...");
 
+        System.out.println("Pushing changes using git bash");
+
     }
 }
