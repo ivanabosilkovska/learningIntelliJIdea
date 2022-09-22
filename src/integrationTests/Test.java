@@ -9,5 +9,6 @@ public class Test {
         System.out.println("Learning GIT");
 
         int a = 7;
+        int b = 5;
     }
 }
