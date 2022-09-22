@@ -28,7 +28,7 @@ public class LoginTests {
         }
     }
 
-    private int age = 5;
+    private int age = 8;
 
 
     // ovoj metod printa good bye i vrednosta na promenlivata

@@ -7,5 +7,7 @@ public class Test {
         System.out.println("Test");
 
         System.out.println("Learning GIT");
+
+        int a = 7;
     }
 }
