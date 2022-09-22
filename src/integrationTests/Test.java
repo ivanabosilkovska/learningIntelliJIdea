@@ -13,5 +13,8 @@ public class Test {
         String name = "test";
 
         System.out.println("amend");
+
+        System.out.println("Learning how to push our changes...");
+
     }
 }
