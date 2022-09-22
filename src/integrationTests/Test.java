@@ -11,5 +11,7 @@ public class Test {
         int a = 7;
 
         String name = "test";
+
+        System.out.println("amend");
     }
 }
