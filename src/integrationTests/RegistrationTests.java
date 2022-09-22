@@ -12,5 +12,7 @@ public class RegistrationTests {
 
         int b = 6;
 
+        System.out.println("Learning GITgui");
+
     }
 }
