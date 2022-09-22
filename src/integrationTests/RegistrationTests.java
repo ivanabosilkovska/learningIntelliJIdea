@@ -8,5 +8,7 @@ public class RegistrationTests {
 
         System.out.println("adding new code...");
 
+        int a = 5;
+
     }
 }
